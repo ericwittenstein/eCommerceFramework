@@ -5,6 +5,10 @@
 
 Using Node.js, Express.js, MySQL, and Sequalize, create the framework for the backend side an e-commerce business.
 
+A walkthrough/demo of the project can be viewed here:
+
+https://drive.google.com/file/d/1Sjt6mkQlivkAS5-Vt3GypluTjoVUeNpz/view
+
 ## Table of Contents 
 
 * [Installation](#installation)
@@ -66,7 +70,7 @@ https://github.com/ericwittenstein/eCommerceFramework
 
 ## Project Demo
 
-    **_ THIS IS A PLACEHOLDER FOR AN IMAGE OR SCREEN RECORDING OF THE PROJECT _**
+https://drive.google.com/file/d/1Sjt6mkQlivkAS5-Vt3GypluTjoVUeNpz/view
 
 ## Contributing
 
