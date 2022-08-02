@@ -9,7 +9,7 @@ router.get("/", async (req, res) => {
 	try {
 		const categoryData = await Category.findAll({
 			// include the associated products
-			include: [Product],
+			include: [Product]
 		});
 
 		if (!categoryData) {
@@ -29,7 +29,7 @@ router.get("/:id", async (req, res) => {
 	try {
 		const categoryData = await Category.findByPk(req.params.id, {
 			// include the associated products
-			include: [Product],
+			include: [Product]
 		});
 
 		if (!categoryData) {
